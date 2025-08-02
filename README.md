@@ -66,8 +66,8 @@ The model revealed meaningful topics corresponding to real-world categories like
 
 ## 🔗 Project Links
 
-- 📁 [Jupyter Notebook (if public)](YOUR_NOTEBOOK_LINK)
-- 🔍 [Interactive Visualization Screenshot](YOUR_IMAGE_LINK)
+- 📁 [Jupyter Notebook (if public)]((https://www.kaggle.com/code/hanenebrahim/topic-modeling-on-bbc-news))
+
 
 ---
 
